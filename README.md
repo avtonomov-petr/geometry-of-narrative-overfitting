@@ -12,5 +12,5 @@ This repository implements a linear algebraic audit of theoretical frameworks ac
   3. **Spectral Profiles:** Comparative eigenvalue decay plots for both systems.
 
 ## Archival DOI & License
-* **Zenodo Archive:** `10.5281/zenodo.XXXXX`
+* **Zenodo Archive:** 10.5281/zenodo.24137937
 * **License:** MIT License
